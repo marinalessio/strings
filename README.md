@@ -1,4 +1,7 @@
 # String Calculator TDD Workshop
+
+[![Build Status](https://travis-ci.org/github/marinalessio/strings.svg?branch=master)](https://travis-ci.org/github/marinalessio/strings)
+
 ## General requirements
 
 You may use whatever programming language/platform you prefer.
