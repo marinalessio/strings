@@ -1,0 +1,14 @@
+{
+  "name": "strings",
+  "version": "1.0.0",
+  "description": "Viasat test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Alessio Marin",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  }
+}
