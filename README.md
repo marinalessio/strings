@@ -1,6 +1,6 @@
 # String Calculator TDD Workshop
 
-[![Build Status](https://travis-ci.org/github/marinalessio/strings.svg?branch=master)](https://travis-ci.org/github/marinalessio/strings)
+[![Build Status](https://travis-ci.org/marinalessio/strings.svg?branch=master)](https://travis-ci.org/github/marinalessio/strings)
 
 ## General requirements
 
