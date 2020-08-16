@@ -8,6 +8,12 @@ npm install
 
 node index.js or npm run start
 
+## Run tests
+
+npm run test
+
+
+
 ## General requirements
 
 You may use whatever programming language/platform you prefer.
