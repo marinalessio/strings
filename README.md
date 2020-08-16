@@ -2,6 +2,12 @@
 
 [![Build Status](https://travis-ci.org/marinalessio/strings.svg?branch=master)](https://travis-ci.org/github/marinalessio/strings)
 
+## Local installation
+
+npm install
+
+node index.js or npm run start
+
 ## General requirements
 
 You may use whatever programming language/platform you prefer.

@@ -4,6 +4,7 @@
   "description": "Viasat test",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "mocha"
   },
   "author": "Alessio Marin",
